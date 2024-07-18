@@ -1,0 +1,89 @@
+---
+title: "My Title"
+shorttitle: "Short Title in Running Header"
+author:
+  - name: Jane Doe
+    corresponding: true
+    orcid: 0000-0000-0000-0001
+    email: janedoe@generic.edu
+    affiliations:
+      - name: Generic University
+        department: Department of Scholarly Studies
+        address: 1234 Capital St.
+        city: New York
+        region: NY
+        country: USA
+        postal-code: 12084-1234
+author-note:
+  status-changes: 
+    affiliation-change: ~
+    deceased: ~
+  disclosures:
+    study-registration: ~
+    data-sharing: ~
+    related-report: ~
+    conflict-of-interest: ~
+    financial-support: ~
+    gratitude: ~
+    authorship-agreements: ~
+abstract: "This document is a template."
+keywords: [keyword1, keyword2, keyword3]
+bibliography: bibliography.bib
+format:
+  #apaquarto-docx: default
+  apaquarto-html: default
+  apaquarto-pdf:
+    documentmode: man
+knitr: 
+  opts_chunk: 
+    message: false
+    warning: false
+---
+
+```{r Dokument-Setup}
+library(needs)
+library(devtools)
+if (!requireNamespace("excelbib", quietly = TRUE)) {
+  devtools::install_github("Enno-W/excelbib")
+}
+needs(excelbib)
+xlsx_to_bib()
+
+```
+
+# Herleitung und Fragestellung:
+
+<!-- Bei der Darstellung Ihres Untersuchungsgegenstands bzw. Ihrer Fragestellung soll sowohl die Relevanz als auch eine ausdifferenzierte theoretische Begründung erfolgen. Erste Literaturquellen zum theoretischen Hintergrund Ihrer Arbeit sollten bereits im Exposé enthalten sein. -->
+
+Die Relevanz von regelmäßiger Bewegung zur Prävention von Krankheiten wurde von den vereinten Nationen als [@assembly2017resolution]. \# Stichprobe:
+
+Erläutern Sie, welche Stichprobe (Größe, Charakteristika) Sie erheben möchten. Falls Sie Daten aus einer speziellen Stichprobe erfassen möchten (z.B. Personen mit Diabetes Mellitus), erläutern sie die Sicherstellung ihres Datenmaterials durch ihre Rekrutierungsstrategie. \# Durchführung:
+
+Beschreiben Sie die Operationalisierung ihrer Studie sowie das Design. Benennen Sie explizit die Materialien und Inventare, die sie nutzen möchten. \# Auswertung:
+
+Beschreiben Sie, mit welchen Analysen Sie Ihre Daten auswerten. \# Method
+
+## Participants
+
+## Measures
+
+## Procedure
+
+# Results
+
+# Discussion
+
+## Limitations and Future Directions
+
+## Conclusion
+
+# References
+
+<!-- References will auto-populate in the refs div below -->
+
+::: {#refs}
+:::
+
+# Appendix
+
+# Title for Appendix
