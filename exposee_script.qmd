@@ -55,11 +55,12 @@ xlsx_to_bib()
 
 <!-- Bei der Darstellung Ihres Untersuchungsgegenstands bzw. Ihrer Fragestellung soll sowohl die Relevanz als auch eine ausdifferenzierte theoretische Begründung erfolgen. Erste Literaturquellen zum theoretischen Hintergrund Ihrer Arbeit sollten bereits im Exposé enthalten sein. -->
 
-Die Relevanz von regelmäßiger Bewegung zur Prävention von Krankheiten wurde von den vereinten Nationen als [@assembly2017resolution]. Kardiovaskuläre Krankheiten sind die am häufigsten registrierte Todesursache, und die gesundheitsförderliche Wirkung von regelmäßigigef Bewegung ist unumstritten. Ebenso relevant für die Gesundheit sind allerdings positive Emotionen. Zur Modellierung von Gesundheitsverhalten, wie z.B. Bewegung ist das HAPA-Modell geeignet. Es gibt aber noch zu wenige  Forschungsergebnisse zu posiven Emotionen im Hinblick auf das Modell. \# Stichprobe:
+Die Relevanz von regelmäßiger Bewegung zur Prävention von Krankheiten wurde von den vereinten Nationen als [@assembly2017resolution]. Kardiovaskuläre Krankheiten sind die am häufigsten registrierte Todesursache, und die gesundheitsförderliche Wirkung von regelmäßigiger Bewegung ist unumstritten. Ebenso relevant für die Gesundheit sind allerdings positive Emotionen. Zusätzlich leisten positive Emotionen auch einen Beitrag zur Aufrechterhaltung von Gesundheitsverhalten. Im Fokus dieser Arbeit soll die positive Stolze stehen. 
+Zur Modellierung von Gesundheitsverhalten, wie z.B. Bewegung ist das HAPA-Modell geeignet. Es gibt aber noch zu wenige  Forschungsergebnisse zu posiven Emotionen im Hinblick auf das Modell. \# Stichprobe:
 
 Erläutern Sie, welche Stichprobe (Größe, Charakteristika) Sie erheben möchten. Falls Sie Daten aus einer speziellen Stichprobe erfassen möchten (z.B. Personen mit Diabetes Mellitus), erläutern sie die Sicherstellung ihres Datenmaterials durch ihre Rekrutierungsstrategie. 
 
-Daten liegen bereits vor. Freizeitsportler:innen Alter ± Standardabweichung: 35.85 ± 12.89 Jahre; 6 weiblich, 12 männlich, 3 divers, b
+Daten liegen bereits vor. Freizeitsportler:innen Alter ± Standardabweichung: 35.85 ± 12.89 Jahre; 6 weiblich, 12 männlich, 3 divers, berichteten über einen Zeitraum von 
 \# Durchführung:
 
 Beschreiben Sie die Operationalisierung ihrer Studie sowie das Design. Benennen Sie explizit die Materialien und Inventare, die sie nutzen möchten. \# Auswertung:
