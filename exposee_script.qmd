@@ -55,16 +55,29 @@ xlsx_to_bib()
 
 <!-- Bei der Darstellung Ihres Untersuchungsgegenstands bzw. Ihrer Fragestellung soll sowohl die Relevanz als auch eine ausdifferenzierte theoretische Begründung erfolgen. Erste Literaturquellen zum theoretischen Hintergrund Ihrer Arbeit sollten bereits im Exposé enthalten sein. -->
 
+HEAD
 Ziel der Vereinten Nationen ist, die Sterblichkeit durch nicht übertragbare Krankheiten, die unter anderem durch einen inaktiven Lebensstil begünstigt werden, bis zum Jahr 2030 um 30 Prozent zu senken. [@assembly2017resolution]. Nur etwa 26% der erwachsenen Bevölkerung in Deutschland erreicht das empfohlene Aktivitätsniveau der WHO in Bezug auf Muskel- und Ausdauertraining [@RKI_2022]. Zur Steigerung der Aktivität in der Bevölkerung ist wichtig, dass Leute, die bereits aktiv sind, dieses Verhalten aufrechterhalten und ausbauen. Das Rückfallmodell von @Marlatt1984 ist auch im Kontext von Sport und Bewegung erklärungsmächtig [@Marcus1997]. @Marlatt1984 postulieren, dass Rückfälle vor allem durch den Umgang mit Hochrisikosituationen erklärt werden können. Dabei ist negatives Gefühlserleben der häufigste Auslöser einer Hochrisikosituation, für deren Bewältigung Selbstwirksamkeit von besonderer Bedeutung ist. Allerdings ist innerhalb dieses Modells die Rolle der Selbstwirksamkeit bereits gut untersucht, in Bezug auf andere Variablen ist die Studienlage allerdings noch dünn [@Amireault2013]. Ob es nun zu einem Aussetzer oder zu einen kompletten Rückfall kommt, hängt laut des Modells von @Marlatt1984 wesentlich von der Ursachenzuschreibung auf das vergangene Verhalten ab. 
 In dieser Studie soll das vom Modell beschriebene Gefühlserleben mit Affektmaßen operationalisiert werden. Dazu kommt die im Kontext von Sport und Bewegung zentrale Emotion Stolz. Daten dazu liegen bereits vor. Außerdem sollen Maße zum Attributionsstil und der Kausalattrition dazu dienen, den Einfluss von der Ursachenzuschreibung des Trainingserfolgs der vergangenen Trainingseinheit auf die weitere Trainingsintensität zu untersuchen. 
 
-# Stichprobe:
+Daten liegen bereits vor. Freizeitsportler:innen Alter ± Standardabweichung: 35.85 ± 12.89 Jahre; 6 weiblich, 12 männlich, 3 divers, berichteten über einen Zeitraum von 
 
-Erläutern Sie, welche Stichprobe (Größe, Charakteristika) Sie erheben möchten. Falls Sie Daten aus einer speziellen Stichprobe erfassen möchten (z.B. Personen mit Diabetes Mellitus), erläutern sie die Sicherstellung ihres Datenmaterials durch ihre Rekrutierungsstrategie. \# Durchführung:
+
+# Stichprobe:
+Die Relevanz von regelmäßiger Bewegung zur Prävention von Krankheiten wurde von den vereinten Nationen als [@assembly2017resolution]. Kardiovaskuläre Krankheiten sind die am häufigsten registrierte Todesursache, und die gesundheitsförderliche Wirkung von regelmäßigiger Bewegung ist unumstritten. Ebenso relevant für die Gesundheit sind allerdings positive Emotionen. Zusätzlich leisten positive Emotionen auch einen Beitrag zur Aufrechterhaltung von Gesundheitsverhalten. Im Fokus dieser Arbeit soll die positive Stolze stehen. 
+Zur Modellierung von Gesundheitsverhalten, wie z.B. Bewegung ist das HAPA-Modell geeignet. Es gibt aber noch zu wenige  Forschungsergebnisse zu posiven Emotionen im Hinblick auf das Modell. \# Stichprobe:
+>>>>>>> ddac6d47c5b23458e108ae71b20a55e7ba0f5d7c
+
+Erläutern Sie, welche Stichprobe (Größe, Charakteristika) Sie erheben möchten. Falls Sie Daten aus einer speziellen Stichprobe erfassen möchten (z.B. Personen mit Diabetes Mellitus), erläutern sie die Sicherstellung ihres Datenmaterials durch ihre Rekrutierungsstrategie. 
+
+
+\# Durchführung:
 
 Beschreiben Sie die Operationalisierung ihrer Studie sowie das Design. Benennen Sie explizit die Materialien und Inventare, die sie nutzen möchten. \# Auswertung:
 
 Beschreiben Sie, mit welchen Analysen Sie Ihre Daten auswerten. \# Method
+
+Hierarchische Regression
+
 
 ## Participants
 
