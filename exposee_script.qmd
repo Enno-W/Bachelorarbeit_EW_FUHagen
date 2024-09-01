@@ -1,6 +1,6 @@
 ---
-title: "Was uns am Laufen hält: Vorhersagen von Bewegungsadhärenz durch negativen Affekt und Attributionsstile"
-#shorttitle: "Short Title in Running Header"
+title: "Exposé: Was uns am Laufen hält: Vorhersagen von Bewegungsadhärenz durch negativen Affekt und Attributionsstile"
+shorttitle: "(((((())))))"
 author:
   - name: Enno Winkler
     corresponding: false
@@ -8,7 +8,7 @@ author:
     email: janedoe@generic.edu
     affiliations:
       - name: Fernuniversität Hagen
-        department: LG Gesundheitspsychologie
+        department: Lehrgebiet Gesundheitspsychologie, Externer Betreuer Dr. Sascha Leisterer (Humboldt-Universität zu Berlin)
 # author-note:
 #   status-changes: 
 #     affiliation-change: ~
@@ -26,9 +26,9 @@ author:
 bibliography: bibliography.bib
 format:
   apaquarto-docx: default
-  apaquarto-html: default
-  apaquarto-pdf:
-    documentmode: man
+  #apaquarto-html: default
+  #apaquarto-pdf:
+    #documentmode: man
 knitr: 
   opts_chunk: 
     message: false
@@ -43,24 +43,27 @@ if (!requireNamespace("excelbib", quietly = TRUE)) {
 }
 needs(excelbib)
 xlsx_to_bib()
-
 ```
 
 # Das Forschungsprojekt "PriMoCa"
 
-Das Projekt "PriMoCa" der Uni Leipzig unter der Führung von Dr. Sascha Leisterer untersucht den Zusammenhang zwischen Stolz (**Pri**de), **Mo**tiven und Kausalattributionen (**Ca**usal attributions). Ziel ist es, das Zusammenspiele dieser Variablen und deren Einfluss auf Bewegungsförderung und Wohlbefinden erwachsener Sporttreibender zu untersuchen. Im Projekt habe ich als Praktikant mitgewirkt. Ich habe eine Pilotstudie vorbereitet und mit Studierenden als Versuchspersonen durchgeführt. Dabei habe die Fragebögen und Tagebücher erstellt, und die Daten eigens erhoben. In der Hauptstudie habe ich ebenso die Fragebögen und Tagebücher erstellt und war auch an der Erhebung und Auswertung beteiligt. Ich habe u.a. das Kodieren impliziter Motive anhand des Manuals von @winter1994 gelernt und die Antworten der Versuchspersonen als zweiter Rater ausgewertet.
+Das Projekt "PriMoCa" der Uni Leipzig unter der Führung von Dr. Sascha Leisterer (doctor philosophiae im Fachbereich Sportpsychologie, betreuende Person) untersucht den Zusammenhang zwischen Stolz (**Pri**de), **Mo**tiven und Kausalattributionen (**Ca**usal attributions). Ziel ist es, das Zusammenspiele dieser Variablen und deren Einfluss auf Bewegungsförderung und Wohlbefinden erwachsener Sporttreibender zu untersuchen. Im Projekt habe ich als Praktikant mitgewirkt. Ich habe eine Pilotstudie zusammen mit der betreuenden Person geplant und mit Studierenden als Versuchspersonen durchgeführt. Dabei habe die Fragebögen und Tagebücher erstellt, und die Daten eigens erhoben. In der Hauptstudie habe ich ebenso die Fragebögen und Tagebücher erstellt und war auch an der Erhebung und Auswertung beteiligt. Ich habe u.a. das Kodieren impliziter Motive anhand des Manuals von @winter1994manual gelernt und die Antworten der Versuchspersonen als zweiter Rater ausgewertet.
+Inzwischen habe ich kein Beschäftigungsverhältnis mit der Universität Leipzig mehr und beteilige mich nun freiwillig am Forschungsprojekt. 
 
-[Das Projekt ist unter XXXX präregistriert.]{.underline}
+[(((((((Das Projekt ist unter XXXX präregistriert.)))))))]{.underline}
 
 # Teilprojekt der Bachelorarbeit
 
-#  Herleitung und Fragestellung
+Das Forschungsprojekt fokussierte bisher den Einfluss von Stolz, Motiven und Kausalattributionen auf die wahrgenommene Bewegungsintensität.
+In der Bachelorarbeit möchte ich nichtangetretene Trainingseinheiten und die Diskrepanz zwischen Zielkilometern und tatsächlich gelaufenen Kilometern als Zielvariable konzipieren und den Einfluss von Affekt und Kausalattribution herausarbeiten. Außerdem möchte ich die Hypothese prüfen, ob der Attributionsstil durch den Einsatz der Tagebücher verändert werden konnte. 
+
+##  Herleitung und Fragestellung
 
 <!-- Bei der Darstellung Ihres Untersuchungsgegenstands bzw. Ihrer Fragestellung soll sowohl die Relevanz als auch eine ausdifferenzierte theoretische Begründung erfolgen. Erste Literaturquellen zum theoretischen Hintergrund Ihrer Arbeit sollten bereits im Exposé enthalten sein. -->
 
-Ziel der Vereinten Nationen ist, die Sterblichkeit durch nicht übertragbare Krankheiten, die unter anderem durch einen inaktiven Lebensstil begünstigt werden, bis zum Jahr 2030 um 30 Prozent zu senken. [@assembly2017resolution]. Nur etwa 26% der erwachsenen Bevölkerung in Deutschland erreicht das empfohlene Aktivitätsniveau der WHO in Bezug auf Muskel- und Ausdauertraining [@RKI_2022]. Zur Bewegungsförderung gehört auch, dass bereits Aktive dieses Verhalten aufrechterhalten und ausbauen. Das Rückfallmodell von @Marlatt1984 beleuchtet die Mechanismen der Aufrechterhaltung von Gesundheitsverhalten und ist auch im Kontext von Sport und Bewegung erklärungsmächtig [@Marcus1997]. Das Modell wurde bereits in Bezug auf Populationen mit bewegungsarmer Lebensweise [@Marcus1993; @Martin1984]; und bereits körperlich aktive Populationen [@Stetson2005] angewendet. Innerhalb dieses Modells ist die wichtige Rolle der Selbstwirksamkeit bereits gut untersucht, in Bezug auf andere Variablen ist die Studienlage allerdings noch dünn [@Amireault2013]. @Marlatt1984 erklären in ihrem Modell, dass Rückfälle vor allem durch den Umgang mit Hochrisikosituationen erklärt werden können. Dabei sei negatives Gefühlserleben der häufigste Auslöser einer Hochrisikosituation. Ob es nun zu einem Aussetzer oder zu einen kompletten Rückfall kommt, hängt zudem laut des Modells von @Marlatt1984 wesentlich von der Ursachenzuschreibung auf das vergangene Verhalten ab, und zwar sollte sich eine internal-variable Kontrollüberzeugung positiv auswirken. Wenn negatives Gefühlserleben und eine undienliche Attribution nach einem Ausrutscher häufiger zu Rückfällen fühlen, dann sollten ein tendenziell negatives Affekterleben und ein external - stabiler Attributionsstil schlechtere Trainingsadhärenz und mehr Rückfälle vorhersagen, und andersherum.
+Ziel der Vereinten Nationen ist, die Sterblichkeit durch nicht übertragbare Krankheiten, die unter anderem durch einen inaktiven Lebensstil begünstigt werden, bis zum Jahr 2030 um 30 Prozent zu senken. [@assembly2017resolution]. Nur etwa 26% der erwachsenen Bevölkerung in Deutschland erreicht das empfohlene Aktivitätsniveau der WHO in Bezug auf Muskel- und Ausdauertraining [@RKI_2022]. Zur Bewegungsförderung gehört auch, dass bereits Aktive dieses Verhalten aufrechterhalten und ausbauen. Das Rückfallmodell von @Marlatt1984 beleuchtet die Mechanismen der Aufrechterhaltung von Gesundheitsverhalten und ist auch im Kontext von Sport und Bewegung erklärungsmächtig [@Marcus1997]. Das Modell wurde bereits in Bezug auf Populationen mit bewegungsarmer Lebensweise [@Marcus1993; @Martin1984]; und bereits aktive Populationen [@Stetson2005] angewendet. Innerhalb dieses Modells ist die wichtige Rolle der Selbstwirksamkeit bereits gut untersucht, in Bezug auf andere Variablen ist die Studienlage allerdings noch dünn [@Amireault2013]. @Marlatt1984 erklären in ihrem Modell, dass Rückfälle vor allem durch den Umgang mit Hochrisikosituationen erklärt werden können. Dabei sei negatives Gefühlserleben der häufigste Auslöser einer Hochrisikosituation. Ob es nun zu einem Aussetzer oder zu einen kompletten Rückfall kommt, hängt zudem laut des Modells von @Marlatt1984 wesentlich von der Ursachenzuschreibung auf das vergangene Verhalten ab, und zwar sollte sich eine internal-variable Kontrollüberzeugung positiv auswirken. Wenn negatives Gefühlserleben und eine undienliche Attribution nach einem Ausrutscher häufiger zu Rückfällen fühlen, dann sollten ein tendenziell negatives Affekterleben und ein external - stabiler Attributionsstil schlechtere Trainingsadhärenz und mehr Rückfälle vorhersagen. 
 
-In dieser Bachelorarbeit soll also untersucht werden, inwiefern der Attributionsstil und das dispositionelle Affekterleben die Trainingsadhärenz vorhersagen. Dazu soll untersucht werden, ob sich der Attributionsstil durch Nahelegung einer dienlichen Attribution in diesem Kontext beeinflussen lässt. Die Hypothesen lauten:
+In dieser Bachelorarbeit soll also untersucht werden, inwiefern der Attributionsstil und das dispositionelle Affekterleben die Trainingsadhärenz vorhersagen. Dazu soll untersucht werden, ob sich der Attributionsstil durch Nahelegung einer dienlichen Attribution in diesem Kontext beeinflussen lässt. 
 
 H1: Ein internal - variabler Attributionsstil sagt weniger Trainingsausfälle (H1.1), sowie eine geringere Diskrepanz zwischen Kilometerziel und tatsächlich gelaufenen Kilometern vorher (H1.2)
 
@@ -68,23 +71,21 @@ H2: Ein tendenziell negativeres Affekterleben sagt mehr Trainingsausfälle (H2.1
 
 H3: Der Attributionsstil zeigt im Post-Test stärkere Ausprägungen auf den Dimensionen "internal" und "variabel" im Vergleich zum Prä-Test.
 
-# Stichprobe:
+## Stichprobe:
 
-Daten von Freizeitsportler:innen (Alter ± Standardabweichung: 35.85 ± 12.89 Jahre; 6 weiblich; 12 männlich; 3 divers) liegen bereits aus einem Forschungsprojekt der Uni Leipzig vor, wobei ich sowohl bei der Erstellung der Fragebögen als auch bei der Erhebung beteiligt war.
+Daten von aktiven, erwachsenen Freizeitsportler:innen (Alter ± Standardabweich ung: 35.85 ± 12.89 Jahre; 6 weiblich; 12 männlich; 3 divers) liegen bereits aus der Studie "PriMoCa II" vor.
 
-# Durchführung:
+## Durchführung:
 
 Die Freizeitsportler:innen berichteten vor der Studie ihr generelles Affekterleben innerhalb der letzten zehn Tage mit der Positive and Negative Affect-Scale von @Watson1988. Der Prä-Test enthielt außerdem die Skala von @Peterson1982 zum Attributionsstil und die Items zu demografischen Daten.
 
-Darauf folgte die Trainingsphase, in der die Trainierenden sechs Trainingseinheiten dokumentieren sollten. In den Tagebüchern wurde nach einer Trainingseinheit die wahrgenommene Trainingsintensität mithilfe des Session-RPE-Fragebogens von @Foster2021 erfasst. Nach jeder Trainingseinheit wurde den Trainierenden eine internal-variable Attribution nahegelegt, indem sie aus vier entsprecheneden Aussagen auswählten. Jede Aussage bezog sich auf eine internal-variable Kontrollüberzeugung wie z.B. Anstrengung. Außerdem wurde das Kilometerziel sowie die Dauer des Laufs und die tatsächlich erreichten Kilometer erfasst.
+Darauf folgte die Trainingsphase, in der die Trainierenden ((((*über einen Zeitraum von XXXX)))) sechs Trainingseinheiten dokumentieren sollten. In den Tagebüchern wurde nach einer Trainingseinheit die wahrgenommene Trainingsintensität mithilfe des Session-RPE-Fragebogens von @Foster2021 erfasst. Nach jeder Trainingseinheit wurde den Trainierenden eine internal-variable Attribution nahegelegt, indem sie aus vier entsprecheneden Aussagen auswählten. Jede Aussage bezog sich auf eine internal-variable Kontrollüberzeugung wie z.B. Anstrengung. Außerdem wurde das Kilometerziel sowie die Dauer des Laufs und die tatsächlich erreichten Kilometer erfasst.
 
-# Auswertung:
+## Auswertung:
 
 Ich benutze Rstudio zur Analyse und ermittle zunächst die üblichen deskriptiven Statistiken. Zur Auswertung der Langzeitdaten werde ich ein lineares gemischtes Modell heranziehen. Außerdem vergleiche ich Prä- und Posttest mit t-Tests, um herauszufinden, ob sich das Affekterleben und der Attributionsstil während der Trainingsphase verändert haben. Dazu werden Effektmaße mit Konfidenzintervall berichtet.
 
+# Literaturverzeichnis
+
 ::: {#refs}
 :::
-
-# Appendix
-
-# Title for Appendix
