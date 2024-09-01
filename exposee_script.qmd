@@ -25,7 +25,7 @@ author:
 #keywords: [keyword1, keyword2, keyword3]
 bibliography: bibliography.bib
 format:
-  #apaquarto-docx: default
+  apaquarto-docx: default
   apaquarto-html: default
   apaquarto-pdf:
     documentmode: man
@@ -45,6 +45,9 @@ needs(excelbib)
 xlsx_to_bib()
 
 ```
+# Projekt allgemein
+
+Das Projekt "Primoca" der Uni Leipzig unter der Führung von Dr. Sascha Leisterer untersucht den Zusammenhang zwischen Stolz (**Pri**de), **Mo**tiven und Kausalattributionen (**ca**usal attributions). Ziel ist es, das Zusammenspiele dieser Variablen und deren Einfluss auf Bewegungsförderung und Wohlbefinden erwachsener Sporttreibender zu untersuchen. Im Projekt habe ich als Praktikant mitgewirkt. Ich habe eine Pilotstudie unter Studierenden vorbereitet und durchgeführt. Das heißt, ich habe die Fragebögen und Tagebücher erstellt, und die Daten eigens erhoben. In der Hauptstudie habe ich ebenso die Fragebögen und Tagebücher erstellt und war auch an der Erhebung und Auswertung beteiligt. Ich habe u.a. das Kodieren impliziter Motive erlernt und die Antworten der Versuchspersonen anhand des Manuals von 
 
 # Herleitung und Fragestellung:
 
